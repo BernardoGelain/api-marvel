@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body { 
+  width:'100vw';
+  overflow-x: hidden;
+}
+
+a {
+  text-decoration: none;
+}
+
+::-webkit-scrollbar {
+  width: 3px;
+}
+::-webkit-scrollbar-track {
+  background: '#ED1B24';
+}
+::-webkit-scrollbar-thumb {
+  background: #ED1B24;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #ED1B24;
+}
